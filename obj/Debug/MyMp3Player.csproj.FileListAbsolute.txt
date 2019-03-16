@@ -1,0 +1,26 @@
+F:\WaiterApp\MyMp3Player\MyMp3Player\bin\Debug\MyMp3Player.exe.config
+F:\WaiterApp\MyMp3Player\MyMp3Player\bin\Debug\MyMp3Player.exe
+F:\WaiterApp\MyMp3Player\MyMp3Player\bin\Debug\MyMp3Player.pdb
+F:\WaiterApp\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.csprojResolveAssemblyReference.cache
+F:\WaiterApp\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.Form1.resources
+F:\WaiterApp\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.Properties.Resources.resources
+F:\WaiterApp\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.csproj.GenerateResource.Cache
+F:\WaiterApp\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.exe
+F:\WaiterApp\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.pdb
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\MyMp3Player.exe.config
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.exe
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.pdb
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\MyMp3Player.exe
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\MyMp3Player.pdb
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\mscorlib.dll
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\System.Net.Http.dll
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\System.Net.Http.xml
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\normidna.nlp
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\normnfc.nlp
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\normnfd.nlp
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\normnfkc.nlp
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\normnfkd.nlp
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.csprojResolveAssemblyReference.cache
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.Form1.resources
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.Properties.Resources.resources
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.csproj.GenerateResource.Cache
