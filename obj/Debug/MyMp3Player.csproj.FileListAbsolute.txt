@@ -24,3 +24,8 @@ C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\
 C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.Form1.resources
 C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.Properties.Resources.resources
 C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.csproj.GenerateResource.Cache
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\obj\Debug\MyMp3Player.csproj.ResolveComReference.cache
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\OLUWASEYI AJADI\Downloads\let's go\MyMp3Player\MyMp3Player\MyMp3Player\bin\Debug\AxInterop.WMPLib.dll
